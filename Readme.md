@@ -1,5 +1,6 @@
 # Code to Image
-
+![readme](https://github.com/user-attachments/assets/d5f3003b-1e3a-4cf6-899e-73d182d27ac8)
+## [DEMO](https://code-to-image-psi.vercel.app/)
 A simple **Next.js + Tailwind CSS** project that converts code snippets into beautiful images with customisable themes and appearance settings.
 
 
